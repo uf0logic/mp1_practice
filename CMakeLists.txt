@@ -4,4 +4,4 @@ project(mp1_practice C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(mp1_practice
-        HomeWork1.c)
+        circles.c)
